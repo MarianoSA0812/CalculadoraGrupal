@@ -2,5 +2,5 @@
 Calculadora creada en grupo
 tomas pereyra
 tobias gordillo
-leandro  asiss
+leandro  asis
 mariano  oliva
